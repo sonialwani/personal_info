@@ -14,3 +14,6 @@ with col2:
     """
     st.info(content)
 
+content2="Please feel free to reach out to me in case of any help or guidance"
+
+st.write(content2)
